@@ -6,8 +6,8 @@
   <body>
     <style>
       h1{
-        color:violet;
-        text-align:center;
+        color: violet;
+        text-align: center;
       }
     </style>
     <h1>DND Notes</h1>
