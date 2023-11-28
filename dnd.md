@@ -1,4 +1,4 @@
-# DND Notes
+<h1 style='text-align:center' markdown='1'>DND Notes</h1>
 
 ### *October 22*
 
