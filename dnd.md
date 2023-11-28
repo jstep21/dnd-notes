@@ -33,8 +33,8 @@ happened. Jason tried glaive and light hammer to no avail. I take the whip and p
 barrier on the door disappears.
 
   We journey back to Belvedere, Mitch heads to the brothel to free Teddy from his gimp suit. Mitch finds Teddy
-wearing a sheep costume, blood dripping from him and gagged. Mitch removes the gag and Teddy's first words are "I've
-been a baaaaaad boy". Mitch leads Teddy out of the brothel on a leash, Teddy still acting like a sheep follows on all
+wearing a sheep costume, blood dripping from him and gagged. Mitch removes the gag and Teddy's first words are > I've
+been a baaaaaad boy <. Mitch leads Teddy out of the brothel on a leash, Teddy still acting like a sheep follows on all
 fours.
 
   Sean goes to inform Dano of what happened on our journey. Dano comments that he is aware of the Dodomekis but is
