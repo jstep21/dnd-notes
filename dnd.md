@@ -1,5 +1,5 @@
 # DND Notes
-
+#000000
 ### *October 22*
 
   Me, Sean and Nomire go to Dano to offer assistance in any way. The goal is to further understand their plans. Dano
