@@ -53,7 +53,7 @@ change his face to a mask. Dontrell asks how much he would sell it for. Mitchell
 that he demands control of Dontrell's operation - he can either submit or fight for control. Dontrell wasn't intimidated
 and asks Mitchell what he wants control of - Mitchell says everything and a battle ensues.
 
-Dontrell transforms into a green skinned warlock. Mitchell took some damage from a surprise attack, then casts fire 
+Dontrell transforms into a _green skinned warlock_. Mitchell took some damage from a surprise attack, then casts fire 
 shield and teleports away towards the door. Sean sends himself into a rage then his tattoos glow as he channels fire 
 into his attack. He swings his battleaxe in a sweep across the first person he sees. The axe sticks to his side. His 
 next attack does critical damage and he ends up killing 3 total enemies and damages another. Teddy attacks the nearest
