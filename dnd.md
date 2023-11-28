@@ -1,16 +1,22 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8">
-  </head>
-  <body>
-    <style>
-      h1{
-        color: violet;
-        text-align: center;
-      }
-    </style>
-    <h1>DND Notes</h1>
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          display: flex;
+          text-align: center;
+          width: 100%;
+          height: 300px;
+          background-color: black;
+          color: white;
+        }
+      </style>
+      <div class="container">
+        <h1>DND Notes</h1>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
   
 ### *October 22*
 
