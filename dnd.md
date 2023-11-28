@@ -82,7 +82,7 @@ are able to leave, I have broken my oath.
 
   A beautiful woman appears. She approaches me and casts a charms on me - her name is Lovaza. The effects of the charm
 prevent me from attacking her. I cast zone of truth, and she blocks the spell. Lovaza tells me there's something I can
-do for her. There are two floating cities above Nalu, Ogen and Mesna, one of which hold something of great value to
+do for her. There are two floating cities above _Nalu_, **Ogen** and **Mesna**, one of which hold something of great value to
 her. The object is protected by a corrupted mage name Dacogen - a jeweled dagger that belonged to the father of the
 jeweled cities - the son killed the father and divided the two cities. She says she'll reward me handsomely for
 retrieving the dagger and tell me the location of one of the orbs. I accept the quest and Lovaza disappears.
