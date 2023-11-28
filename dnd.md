@@ -1,3 +1,5 @@
+<link href="styles.css" rel="stylesheet"></link>
+
 <h1>DND Notes</h1>
 
 ### *October 22*
