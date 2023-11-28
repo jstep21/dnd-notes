@@ -4,7 +4,6 @@
       <style>
         .container {
           display: flex;
-          text-align: center;
           width: 100%;
           height: 300px;
           background-color: black;
