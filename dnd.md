@@ -5,6 +5,13 @@
     <link href="styles.css" rel="stylesheet"></link>
   </head>
   <body>
+
+  <style>
+    h1 {
+      color:violet;
+      text-align:center;
+    }
+  </style>
     
   <h1>DND Notes</h1>
   
