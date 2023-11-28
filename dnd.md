@@ -1,6 +1,12 @@
-<link href="styles.css" rel="stylesheet"></link>
-
-<h1>DND Notes</h1>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>DND Notes</title>
+    <link href="styles.css" rel="stylesheet"></link>
+  </head>
+  <body>
+    <h1>DND Notes</h1>
 
 ### *October 22*
 
@@ -135,3 +141,5 @@ continues to reduce by 10 each 24 hours. If i fail to remove the curse and die i
 its next move. For my turn, I move inside the cylinder, taking the opportunity attack like a champ, then light my
 sword on fire and attack the mummy lord - it ends up turning to dust. I'm disappointed that I was unable to collect a
 new head.
+
+  </body>
