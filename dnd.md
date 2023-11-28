@@ -24,7 +24,7 @@ their bows and join our mission.
 paintings and the other has lots of trophies of weapons. Jason sees a statue and notices some writing on it. Jason
 comes back to the group and tells us. Sean and I go over to see if we can read it - Sean translates it to 
 
-> arm me to move forward.
+> arm me to move forward.#ffffff
 
   We take a long rest. When we wake up there's a magical barrier on the door to exit. Jason takes a quarterstaff and
 places it in the statues hand. The weapon acts on it's on accord and slashes Jason. Jason goes to the back of the
