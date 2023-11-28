@@ -2,12 +2,12 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8">
-    <title>DND Notes</title>
     <link href="styles.css" rel="stylesheet"></link>
   </head>
   <body>
-    <h1>DND Notes</h1>
-
+    
+  <h1>DND Notes</h1>
+  
 ### *October 22*
 
   Me, Sean and Nomire go to Dano to offer assistance in any way. The goal is to further understand their plans. Dano
