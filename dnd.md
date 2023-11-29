@@ -1,6 +1,8 @@
 # DND Notes
+<hr>
   
 ### *October 22*
+<hr>
 
 Me, Sean and Nomire go to Dano to offer assistance in any way. The goal is to further understand their plans. Dano
 fills them in on a troubling situation happening with one of their trade routes. Dano and the rest of the underdark
