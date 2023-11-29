@@ -1,5 +1,4 @@
 # DND Notes
-<hr>
   
 ### *October 22*
 <hr>
