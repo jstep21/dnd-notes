@@ -1,31 +1,34 @@
 # DND Notes
-
+  
 ### *October 22*
+<hr>
 
-  Me, Sean and Nomire go to Dano to offer assistance in any way. The goal is to further understand their plans. Dano
+Me, Sean and Nomire go to Dano to offer assistance in any way. The goal is to further understand their plans. Dano
 fills them in on a troubling situation happening with one of their trade routes. Dano and the rest of the underdark
 town had an agreement to trade alchemical resources in exchange for magical weapons/items and gold. The other traders
 were magical humans known to reside on the other side of a system of tunnels.
 
-  Mitch and Jason decide to search for Dontell and his group of mercenaries. After a poor performance, Mitch conjures
+Mitch and Jason decide to search for Dontell and his group of mercenaries. After a poor performance, Mitch conjures
 a lie that he knows where a powerful artifact lies. Dontell's second in command, Donmor, hears this and,unsure if
 this is true but not taking any chances, brings Mitch and Jason face to face with Dontell. Dontell informs the two
 that the orb of chaos in somewhere within the underdark and that the town council would probably also be in search of
 it.
 
-  We leave without addressing where Teddy is, almost as if there's an unspoken grudge. Two of the town guardsmen grab
+We leave without addressing where Teddy is, almost as if there's an unspoken grudge. Two of the town guardsmen grab
 their bows and join our mission.
 
-  Shortly after starting our journey,
+Shortly after starting our journey,
 
 ### *November 5th*
+<hr>
 
-  We decided to take a long rest in the Tower. We stumble across two rooms - one that has a bunch of artwork and
+We decided to take a long rest in the Tower. We stumble across two rooms - one that has a bunch of artwork and
 paintings and the other has lots of trophies of weapons. Jason sees a statue and notices some writing on it. Jason
-comes back to the group and tells us. Sean and I go over to see if we can read it - Sean translates it to "arm me
-to move forward".
+comes back to the group and tells us. Sean and I go over to see if we can read it - Sean translates it to 
 
-  We take a long rest. When we wake up there's a magical barrier on the door to exit. Jason takes a quarterstaff and
+> Arm me to move forward
+
+We take a long rest. When we wake up there's a magical barrier on the door to exit. Jason takes a quarterstaff and
 places it in the statues hand. The weapon acts on it's on accord and slashes Jason. Jason goes to the back of the
 room and sits by himself. Mitchell takes the short-sword and does the same thing as Jason - again it attacks him and
 he takes a few damage. Sean does the same with the mace, and it does the same. I took the sling and same thing
@@ -33,27 +36,29 @@ happened. Jason tried glaive and light hammer to no avail. I take the whip and p
 barrier on the door disappears.
 
   We journey back to Belvedere, Mitch heads to the brothel to free Teddy from his gimp suit. Mitch finds Teddy
-wearing a sheep costume, blood dripping from him and gagged. Mitch removes the gag and Teddy's first words are "I've
-been a baaaaaad boy". Mitch leads Teddy out of the brothel on a leash, Teddy still acting like a sheep follows on all
-fours.
+wearing a sheep costume, blood dripping from him and gagged. Mitch removes the gag and Teddy's first words are 
 
-  Sean goes to inform Dano of what happened on our journey. Dano comments that he is aware of the Dodomekis but is
+> I've been a baaaaaad boy
+
+Mitch leads Teddy out of the brothel on a leash, Teddy still acting like a sheep follows on all fours.
+
+Sean goes to inform Dano of what happened on our journey. Dano comments that he is aware of the Dodomekis but is
 surprised that three convoys didn't make it through because of them. He also tells them of the spiders that we made
 a deal with - in exchange for not attacking the trade convoys the town has to give the spiders animals carcasses and
 or folic prisoners. Sean tells him the bad news that there was a teleportation spell that terribly wrong and destroyed
 the entire town. Dano gives Sean 500 gold and tells him he'll let him know if he has anymore missions for the group.
 
-  Next, we head to the market as a group. First, we head to an alchemy shop to buy some health potions and any other
+Next, we head to the market as a group. First, we head to an alchemy shop to buy some health potions and any other
 useful potions we may need. Sean finds a back alley tattoo artist and has a magical tattoo imprinted on his arm. The
 tattoo gives him a special attack power that he is now able to call upon.
 
-  We show up to Dontrell's hideout, Mitchell plans on intimidating the leader and challenging him. We see the whole
+We show up to Dontrell's hideout, Mitchell plans on intimidating the leader and challenging him. We see the whole
 gang on criminals along with Dontrell. Dontrell asks Mitchell about the orb, Mitchell tries to attune to it and
 change his face to a mask. Dontrell asks how much he would sell it for. Mitchell teleports behind Dontrell and says
 that he demands control of Dontrell's operation - he can either submit or fight for control. Dontrell wasn't intimidated
 and asks Mitchell what he wants control of - Mitchell says everything and a battle ensues.
 
-Dontrell transforms into a green skinned warlock. Mitchell took some damage from a surprise attack, then casts fire 
+Dontrell transforms into a _green skinned warlock_. Mitchell took some damage from a surprise attack, then casts fire 
 shield and teleports away towards the door. Sean sends himself into a rage then his tattoos glow as he channels fire 
 into his attack. He swings his battleaxe in a sweep across the first person he sees. The axe sticks to his side. His 
 next attack does critical damage and he ends up killing 3 total enemies and damages another. Teddy attacks the nearest
@@ -64,7 +69,7 @@ full damage and Jason deflects the first arrow with deflect missile and takes da
 at the enemy that shot the arrow and kills him. I call upon fire to light my sword and attack the nearest enemy. With 
 two slashes I kill him.
 
-  Next round, Dontrell casts a distant claw attack on Mitchell who is reduced to 0 hit points. He is revived at half
+Next round, Dontrell casts a distant claw attack on Mitchell who is reduced to 0 hit points. He is revived at half
 health and immune to the damage dealt due to his mask of chaos. Mitchell then casts fireball centered on the remaining
 enemies in room - he kills 7 of Dontrell's minions and gains 21 temporary hit points as a result. Dontrell is now
 willing to hear us out. Mitchell tells Donmor and the remaining two minions that they can join our cause but they have
@@ -74,20 +79,20 @@ Dontrell but he doesn't want to die - Donmor steps aside. Sean then attacks Dont
 battleaxe and does a considerable amount of damage. Teddy hits Dontrell with his rapier and dagger - as a result
 Dontrell is looking beat up. The two minions attack Dontrell and land the killing blow.
 
-  We demand 50% of the criminal operation and if there's an issue with the group they need to let us know, and we'll
+We demand 50% of the criminal operation and if there's an issue with the group they need to let us know, and we'll
 take care of it Donmor provides a sending stone to Mitchell with unlimited range. The stone does not operate in
 different planes of existence. He also provides us with their gang crest, and we give them a cloud crest of the
 Atatsuki. Donmor then gives us the location of their vault and tells us that there's a magical lock on it. Before we
 are able to leave, I have broken my oath.
 
-  A beautiful woman appears. She approaches me and casts a charms on me - her name is Lovaza. The effects of the charm
-prevent me from attacking her. I cast zone of truth, and it blocks the spell. Lovaza tells me there's something I can
-do for her. There are two floating cities above Nalu, Ogen and Mesna, one of which hold something of great value to
-her. The object is protected by a corrupted mage name Dacogen - a jeweled dagger that belonged to the father of the
+A beautiful woman appears. She approaches me and casts a charms on me - her name is _Lovaza_. The effects of the charm
+prevent me from attacking her. I cast zone of truth, and she blocks the spell. Lovaza tells me there's something I can
+do for her. There are two floating cities above Nalu, _Ogen_ and _Mesna_, one of which hold something of great value to
+her. The object is protected by a corrupted mage name _Dacogen_ - a jeweled dagger that belonged to the father of the
 jeweled cities - the son killed the father and divided the two cities. She says she'll reward me handsomely for
 retrieving the dagger and tell me the location of one of the orbs. I accept the quest and Lovaza disappears.
 
-  We get drunk in the bar to celebrate the night and rest inside. The next morning we head to the outskirts of the
+We get drunk in the bar to celebrate the night and rest inside. The next morning we head to the outskirts of the
 city to look for the vault. We come one smaller house settled in the side of a hill. The doorway blends in with the
 surrounding rock. Mitchell notices that there's no magical presence on the front door. I open the door while Mitchell
 takes out a lock picking kit. I walk in with the rest of the crew, Mitchell opens the next door at the opposite side
@@ -96,7 +101,7 @@ tries to dispel the magic on the door and fails. I touch the wall and the incant
 blood offering to get through. Mitchell slits his hand and smears blood on the wall. Next, a mimic of Mitchell appears
 in the room behind us, in front of Teddy, Jason and Sean.
 
-  The mimic sends a magical touch to Jason and deals necrotic damage. We're all surprised beside Jason. Jason
+The mimic sends a magical touch to Jason and deals necrotic damage. We're all surprised beside Jason. Jason
 critically misses his first attack and the mimic of Mitchell bursts out laughing. Jason's second attack lands and
 deals a moderate amount of damage. Next, he uses flurry of blows to hit the mimic two more times - dealing
 considerably more damage. The mimic then teleports to the side of the room and casts a fireball on Teddy, Jason and
@@ -108,7 +113,7 @@ strike which paralyzes the mimic for a second time. Teddy attacked once with his
 amount of damage. Sean goes into a rage and swings his battleaxe at Mitchell's head and kills him. Sean slashes right
 through him and disappears.
 
-  The door in the hallway then opens to another hallway with a door at the end. We notice
+The door in the hallway then opens to another hallway with a door at the end. We notice
 that the room is similar to the last but is now dripping a sort of ooze instead of water. Teddy perceives the skeleton
 bones to be of a humanoid form - the assumption is that they are dead intruders. Teddy looks for any woodland
 creatures outside to no avail then tries to open the door and nothing happens. Teddy opens his mouth to drink the ooze
@@ -118,7 +123,7 @@ to use dispel magic on the door unsuccessfully. Mitchell teleports to the other 
 on the other side. Jason tries to punch the door, nothing happens. Sean's tattoos start glowing and pushes the door
 with radiant energy. Coincidentally the door opens as the time runs out.
 
-  The creatures casts a spell on Mitchell, as a result he is frightened and paralyzes. Then the creatures attacks
+The creatures casts a spell on Mitchell, as a result he is frightened and paralyzes. Then the creatures attacks
 Mitchell with bludgeoning damage. Jason attacks with his quarterstaff and the creature is immune to non-magical
 bludgeoning damage. Jason attempts to use flurry of blows and ends up slapping himself. The creature attacks Jason
 with harm and does a huge amount of damage and reduces his max hit points. On my turn, I use my prayer beads and cast
@@ -132,3 +137,4 @@ continues to reduce by 10 each 24 hours. If i fail to remove the curse and die i
 its next move. For my turn, I move inside the cylinder, taking the opportunity attack like a champ, then light my
 sword on fire and attack the mummy lord - it ends up turning to dust. I'm disappointed that I was unable to collect a
 new head.
+
