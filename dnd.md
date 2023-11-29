@@ -19,6 +19,7 @@ their bows and join our mission.
 Shortly after starting our journey,
 
 ### *November 5th*
+<hr>
 
 We decided to take a long rest in the Tower. We stumble across two rooms - one that has a bunch of artwork and
 paintings and the other has lots of trophies of weapons. Jason sees a statue and notices some writing on it. Jason
