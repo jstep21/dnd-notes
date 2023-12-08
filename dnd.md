@@ -161,7 +161,4 @@ its next move. For my turn, I move inside the cylinder, taking the opportunity a
 sword on fire and attack the mummy lord - it ends up turning to dust. I'm disappointed that I was unable to collect a
 new head.
 
-<<<<<<< HEAD
 
-=======
->>>>>>> origin/master
