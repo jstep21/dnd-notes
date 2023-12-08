@@ -17,7 +17,26 @@ it.
 We leave without addressing where Teddy is, almost as if there's an unspoken grudge. Two of the town guardsmen grab
 their bows and join our mission.
 
-Shortly after starting our journey,
+Shortly after starting our journey, we encountered an abandoned trade wagon on the side of the road. We could make out
+signs that it was attacked. We start to spread out to investigate. An invisible force attacks Jason and Mitch and both 
+take heavy damage. The two also notice that their coin pouches are significantly lighter.
+
+I decide to cast _detect_good_and_evil_ and I see ghostly pale white humanoid women. The creatures have their limbs
+covered with eyes pitch black like the night sky. I surmise that they must be able to detect gold in order to consume it.
+Perhaps this is how they survive.
+
+After some solid teamwork, the creatures are defeated and each turns to black goo and are absorbed by the earth beneath our 
+feet. We heal up with a few potions and continue on to a large cavern. We suspect that the spiders we're looking for likely
+reside here due to all the webs and cocoons. We decide instead of trying to fight the spiders, why don't we try to persuade
+them. We talk with them and to our surprise the spiders understand the common tongue. Eventually, we make a deal to allow 
+Dano and his crew to pass through unharmed and in return sacrifices must be given to the spiders. The best sacrifices are
+our enemies - the folic family.
+
+We make it out of the cave and continue on our path. In the distance, we see a small town with a looming tower in near
+the center of the town. As we approach, the wind picks up as if a storm is approaching. After a couple minutes, a thunderstorm
+rolls in; however, there is no rain to accompany it. The sky changes colors to red and violet as the storm thunders on. The
+view is both beautiful and terrifying. Looking up at the tower, we notice that the top has collapsed - likely due to an 
+explosion. Above the rubble at the apex of the tower, we see debris floating around in the shape of a sphere.
 
 ### *November 5th*
 <hr>
@@ -86,11 +105,15 @@ Atatsuki. Donmor then gives us the location of their vault and tells us that the
 are able to leave, I have broken my oath.
 
 A beautiful woman appears. She approaches me and casts a charms on me - her name is _Lovaza_. The effects of the charm
-prevent me from attacking her. I cast zone of truth, and she blocks the spell. Lovaza tells me there's something I can
-do for her. There are two floating cities above Nalu, _Ogen_ and _Mesna_, one of which hold something of great value to
-her. The object is protected by a corrupted mage name _Dacogen_ - a jeweled dagger that belonged to the father of the
-jeweled cities - the son killed the father and divided the two cities. She says she'll reward me handsomely for
-retrieving the dagger and tell me the location of one of the orbs. I accept the quest and Lovaza disappears.
+prevent me from attacking her. I cast zone of truth, and she blocks the spell. Lovaza tells me
+
+> There's something you can do for me. There are two floating cities above Nalu, _Ogen_ and _Mesna_, one of which
+>  holds something of great value to me.
+
+The item she's looking for is a jeweled dagger that belonged to the father of the two jeweled cities floating in the sky.
+The dagger is protected by a corrupted mage name _Dacogen_, who is the son of the former king of the jeweled cities.
+_Dacogen_ killed his father and divided the two cities. She says she'll tell us the location of an orb in exchange for
+doing this. I accept the quest and Lovaza disappears.
 
 We get drunk in the bar to celebrate the night and rest inside. The next morning we head to the outskirts of the
 city to look for the vault. We come one smaller house settled in the side of a hill. The doorway blends in with the
@@ -137,4 +160,5 @@ continues to reduce by 10 each 24 hours. If i fail to remove the curse and die i
 its next move. For my turn, I move inside the cylinder, taking the opportunity attack like a champ, then light my
 sword on fire and attack the mummy lord - it ends up turning to dust. I'm disappointed that I was unable to collect a
 new head.
+
 
