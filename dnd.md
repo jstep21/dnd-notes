@@ -79,7 +79,7 @@ its claws and tail. Eventually, Jake deals the final blow and collects the head 
 
 At the top of the tower, the group enters the antigravity sphere - the giant sphere of floating debris we saw from afar. 
 Jason uses his ring and is able to shift the floating debris in a way that allows us to traverse through the sphere. We find 
-the orb of chaos at the end of the pathway. Mitchell picks it up and it attunes to him immediately.
+the orb of chaos at the end of the pathway. Mitchell picks it up, and it attunes to him immediately.
 
 
 
