@@ -105,11 +105,15 @@ Atatsuki. Donmor then gives us the location of their vault and tells us that the
 are able to leave, I have broken my oath.
 
 A beautiful woman appears. She approaches me and casts a charms on me - her name is _Lovaza_. The effects of the charm
-prevent me from attacking her. I cast zone of truth, and she blocks the spell. Lovaza tells me there's something I can
-do for her. There are two floating cities above Nalu, _Ogen_ and _Mesna_, one of which hold something of great value to
-her. The object is protected by a corrupted mage name _Dacogen_ - a jeweled dagger that belonged to the father of the
-jeweled cities - the son killed the father and divided the two cities. She says she'll reward me handsomely for
-retrieving the dagger and tell me the location of one of the orbs. I accept the quest and Lovaza disappears.
+prevent me from attacking her. I cast zone of truth, and she blocks the spell. Lovaza tells me
+
+> There's something you can do for me. There are two floating cities above Nalu, _Ogen_ and _Mesna_, one of which
+>  holds something of great value to me.
+
+The item she's looking for is a jeweled dagger that belonged to the father of the two jeweled cities floating in the sky.
+The dagger is protected by a corrupted mage name _Dacogen_, who is the son of the former king of the jeweled cities.
+_Dacogen_ killed his father and divided the two cities. She says she'll tell us the location of an orb in exchange for
+doing this. I accept the quest and Lovaza disappears.
 
 We get drunk in the bar to celebrate the night and rest inside. The next morning we head to the outskirts of the
 city to look for the vault. We come one smaller house settled in the side of a hill. The doorway blends in with the
