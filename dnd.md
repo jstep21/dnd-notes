@@ -154,7 +154,7 @@ She approaches Jake and casts a charm on him and greets herself as _Lovaza_. The
 prevent him from attacking her. In a futile effort, Jake casts zone of truth. She blocks the spell. She tells Jake
 
 > There's something you can do for me. There are two floating cities above Nalu, _Ogen_ and _Mesna_, one of which
->  holds something of great value to Jake.
+>  holds something of great value to me.
 
 The item she's looking for is a jeweled dagger that belonged to the father of the two jeweled cities floating in the sky.
 The dagger is protected by a corrupted mage name _Dacogen_, who is the son of the former king of the jeweled cities.
