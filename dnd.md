@@ -118,7 +118,7 @@ useful potions we may need. Sean finds a back alley tattoo artist and has a magi
 tattoo gives him a special attack power that he is now able to call upon.
 
 We show up to Dontrell's hideout, Mitchell plans on intimidating the leader and challenging him. We see the whole
-gang on criminals along with Dontrell. Dontrell asks Mitchell about the orb, Mitchell tries to attune to it and
+gang on criminals along with Dontrell, the _Don Cheadle Gang_. Dontrell asks Mitchell about the orb, Mitchell tries to attune to it and
 change his face to a mask. Dontrell asks how much he would sell it for. Mitchell teleports behind Dontrell and says
 that he demands control of Dontrell's operation - he can either submit or fight for control. Dontrell wasn't intimidated
 and asks Mitchell what he wants control of - Mitchell says everything and a battle ensues. Once again, Mitchell fucks up the plan.
@@ -132,7 +132,7 @@ couple of punches then uses flurry of blows with his quarterstaff - the criminal
 into his ally and dies - his ally takes damage. Multiple archers shoot arrows at Mitchell and Jason - Mitchell takes 
 full damage and Jason deflects the first arrow with deflect missile and takes damage. He sends the deflected arrow back 
 at the enemy that shot the arrow and kills him. Jake calls upon fire to light his sword and attack the nearest enemy. With 
-two slashes he kill it.
+two slashes he kills it.
 
 Next round, Dontrell casts a distant claw attack on Mitchell who is reduced to 0 hit points. He is revived at half
 health and immune to the damage dealt due to his mask of chaos. Mitchell then casts fireball centered on the remaining
@@ -151,7 +151,7 @@ Atatsuki. Donmor then gives us the location of their vault and tells us that the
 are able to leave, a beautiful woman appears.
 
 She approaches Jake and casts a charm on him and greets herself as _Lovaza_. The effects of the charm
-prevent him from attacking her. In a futile effort, Jake casts zone of truth. She blocks the spell. She tells Jake
+prevent him from attacking her. In a futile effort, Jake casts zone of truth. She blocks the spell, then explains, 
 
 > There's something you can do for me. There are two floating cities above Nalu, _Ogen_ and _Mesna_, one of which
 >  holds something of great value to me.
@@ -198,13 +198,64 @@ bludgeoning damage. Jason attempts to use flurry of blows and ends up slapping h
 with harm and does a huge amount of damage and reduces his max hit points. Next, Jake uses his prayer beads and cast
 greater restoration to free Mitchell from his paralysis. Then, he casts magic circle to enclose the mummy in a 10-foot
 radius circle that gives the creature disadvantage on attack rolls. Teddy tries to talk to the mummy lord to persuade it 
-to not attack us. Sean imbues his attacks with histattoo magic and deals a decent amount of damage. Mitch casts a firebolt
+to not attack us. Sean imbues his attacks with his tattoo magic and deals a decent amount of damage. Mitch casts a firebolt
 and also deals a considerable amount of damage. Jason backs up and leaves the room, uses wholeness of body to heal himself. 
 The creature casts insect plague around itself, and deals a moderate amount of damage to everyone except Jason, Jake is the 
 only one hit that takes half damage. The creature attacks Jake and misses, however, he am cursed which means his max hit points 
 is reduced by 10 and continues to reduce by 10 each 24 hours. If he fails to remove the curse and die he turns to dust. Jake is
 also blinded by its next move. For Jake's turn, he moves inside the cylinder, taking the attack of opportunity head on, then lights his
 sword on fire and attacks the mummy lord - it ends up turning to dust. The rest of the creew notices a look of disappointment 
-that he was unable to collect a new head.
+that he was unable to collect a new head. 
+
+### December 9
+
+<hr>
+
+We continue into the room and come across a massive amount of loot. We spend time dividing it up - a few of us attune to certain
+items. We decide to gift one of the items that we don't want to Dano. We approach the towns guards and they let us through to see Dano.
+We meet alone in a room. Mitchell informs Dano, 
+
+> We present you with this gift from our adventures. Fuck the Folics!
+
+Dano then asks us where we plan on going next. We tell him that we're heading to the _Procule_ region next, and he tells us,
+
+> There's a secret note I need you to deliver to a man named Dak in Strix for me.
+
+He lets us know that the letter is sealed and to not open it. We hand the letter to Teddy, who is able to read it with his newly
+acquired _Ring of X-ray Vision_. It doesn't contain much - just a request for more supplies.
+
+We mount our horse and head out to through the underdark to the next region. After a bit, we come across a group of beatles, about
+2 feet in size. The beatles are following each other and Mitchell sends his anal slave to follow them for 100 yards. The anal slave creature
+reports back that he saw the beatles go into a cave down the path. We decide to stay the fuck away from them - this might be a trap.
+
+Continuing along the path, we come across a large open structure with pillars. Teddy then sends his anal slave to investigate. It 
+reports back that it appears to be a place of worship - there appears to be a _minotaur_ statue. Teddy is outraged and beats his creature a bit 
+
+> Go inside!! Get the fuck back there!
+
+The creature doesn't appreciate being treated like this and refuses. Teddy approaches the stone minotaur shrine, and we decide to leave
+alone. Further along the road, we see a two people, likely father and son, on the side of the road in normal clothes. Sean approaches and says,
+
+> Hello travelers, we are the Atatsuki, we are heading west to Procule, are you guys from there?
+
+The two let us know that they're from a small town in between Procule and here and ask us if we can spare any gold or food.
+Mitchell flicks a gold coin at them, while Sean collects a gold coin from the rest of us. Sean then asks why they're leaving the
+continent. The father inform us
+
+> There's been more attacks by demon creatures across multiple different towns across the underdark in this area. I've also heard
+> rumors that the same is happening above ground.
+
+The father give us a map and show us the way to get to his village. We wish them safe travels and depart. 
+
+Next, we stumble across a wooden crate in the middle of the road. Jason sends his anal slave to investigate the crate. The creature is
+unable to open it; so, Jason goes up to it and tries to open it, but is unsuccessful. Mitchell hands Jason his crow bar to help him
+open it - 100 gold appears inside the crate, which the two split.
+
+Eventually we see what looks like the father's hometown. There's a storm raging, blue flames covering building walls, screams 
+screeching - the town is under attack. We take a vote and decide to enter the town. To prepare, Jake equips his new item the _Robe of Stars_
+and suddenly disappears - _he teleported to the astral plane_. The rest of the group assumes that he's dead, and charges into the town. With lightning bolts shattering
+into the ground, the group enters the courtyard of the town and sees an open area with vendor stalls. Along the stalls, there are two ghostly figures
+are flinging balls of electricity at buildings. In addition, there are 4 velociraptor-like creatures and another large worm
+creature resembling an _Alaskan Bull Worm_
 
 
