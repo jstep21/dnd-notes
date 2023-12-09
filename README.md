@@ -11,7 +11,7 @@ If you're going to edit, here are some rules for .md files:
 - `# Hello` - will make "Hello" a level 1 header, like "DND Notes" in this file.
 - `## Hello` - level 2 header
 - `### Hello` - level 3 header 
-- `_hello_` or "*hello*" - italic
+- `_hello_` or `*hello*` - italic
 - `**hello**` - bold
 - `~~hello~~` - strikethrough (~~hello~~)
 - `**hello _there_**` - combining bold and italic on specific words (**hello _there_**)
@@ -21,5 +21,5 @@ If you're going to edit, here are some rules for .md files:
 - `<sub>some text</sub>` - subscript (some<sub>text</sub>)
 - `<sup>some text</sup>` - superscript (some<sup>text</sup>)
 
-
+<hr>
 
