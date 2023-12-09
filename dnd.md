@@ -204,7 +204,7 @@ The creature casts insect plague around itself, and deals a moderate amount of d
 only one hit that takes half damage. The creature attacks Jake and misses, however, he am cursed which means his max hit points 
 is reduced by 10 and continues to reduce by 10 each 24 hours. If he fails to remove the curse and die he turns to dust. Jake is
 also blinded by its next move. For Jake's turn, he moves inside the cylinder, taking the attack of opportunity head on, then lights his
-sword on fire and attacks the mummy lord - it ends up turning to dust. The rest of the creew notices a look of disappointment 
+sword on fire and attacks the mummy lord - it ends up turning to dust. The rest of the crew notices a look of disappointment 
 that he was unable to collect a new head. 
 
 ### December 9
@@ -236,7 +236,7 @@ reports back that it appears to be a place of worship - there appears to be a _m
 The creature doesn't appreciate being treated like this and refuses. Teddy approaches the stone minotaur shrine, and we decide to leave
 alone. Further along the road, we see a two people, likely father and son, on the side of the road in normal clothes. Sean approaches and says,
 
-> Hello travelers, we are the Atatsuki, we are heading west to Procule, are you guys from there?
+> Hello travelers, we are the Akatsuki, we are heading west to Procule, are you guys from there?
 
 The two let us know that they're from a small town in between Procule and here and ask us if we can spare any gold or food.
 Mitchell flicks a gold coin at them, while Sean collects a gold coin from the rest of us. Sean then asks why they're leaving the
@@ -256,6 +256,54 @@ screeching - the town is under attack. We take a vote and decide to enter the to
 and suddenly disappears - _he teleported to the astral plane_. The rest of the group assumes that he's dead, and charges into the town. With lightning bolts shattering
 into the ground, the group enters the courtyard of the town and sees an open area with vendor stalls. Along the stalls, there are two ghostly figures
 are flinging balls of electricity at buildings. In addition, there are 4 velociraptor-like creatures and another large worm
-creature resembling an _Alaskan Bull Worm_
+creature resembling an _Alaskan Bull Worm_ that appears floating in the air. 
+
+Jason approaches the velociraptor creatures and critically hits one with _Radiant Sun Bolt_, then spends a ki point to attack again -
+another critical hit! He ends up dealing a significant amount of damage. Sean charges on the other side of the open area and sprays two 
+velociraptors and one of the pale ghostly humanoid wizards. He deals full damage to the velociraptors and half damage to the 
+wizard. The Alaskan Bull Worm closes the distance between it and Sean and unsuccessfully tries to attack him. Two raptor creatures 
+attack Sean and on the other flank the two other raptors attack Jason. The wizards move closer to us all and cast a ranged spell
+at Teddy and Jason. Mitchell assists Jason on his flank and runs up onto the first velociraptor. He attacks with his _Blade of Chaos_
+and deals a moderate amount of damage - the creature ends up dying. Jake reappears out of nowhere. He lights his longsword on fire 
+and rushes to one of the pale wizards and attacks to deal a significant amount of damage.
+
+Next round, Jason uses his _Radiant Sun Bolt_ twice on one of the wizards and deals a lot of damage. The wizard puts up a force
+field around itself. Sean enters a rage and uses _Frenzy Attack_ on one of the raptors surrounding him. Bringing his battleaxe overhead
+for a downward strike, he deals a moderate amount of damage. After, he activates his tattoo and attacks a second time on the same enemy.
+His battleaxe ends up missing the raptor. The Alaskan Bull Worm goes up to Teddy and attacks to deal a significant amount of damage.
+One raptor attacks Jason and the other three gang up on Sean. Teddy attacks one of the raptors with his rapier and kills it.
+One of the pale wizards casts _Lightning Bolt_, which Mitchell counters with _Counterspell_. The wizard then attacks Jake twice,
+but only one hit lands. The second wizard casts _Lightning Bolt_ as well, he deals half damage to Jake, Teddy and the giant worm. 
+Sean takes full damage. Mitchell uses _Banishment_ on one of the wizards and the Alaskan Bull Worm. The wizard is banished from
+this plane of existence. Jake rushes towards Teddy and Sean and uses _Lay on Hands_ to heal Teddy for 30 hit points. As a bonus
+action he casts _Branding Smite_.
+
+For Jason's next turn, he uses his unarmed ability _Flurry of Blows_ to attack the last velociraptor by him, dealing moderate damage.
+Still in a rage, Sean attacks one of the velociraptors close to him with his battleaxe. He attacks again and ends up killing
+it with a slice to the neck. The raptors head falls to the ground, and disappears. The Alaskan Bull Worm uses _Enslavement_ 
+on Jake successfully, meaning that he can't move nor attack it, and attacks Teddy, dealing a moderate amount of damage. One of the raptors attacks Sean and the other attacks
+Jason for a small amount of damage. Teddy attacks the Alaskan Bull Worm and deals a moderate amount of damage. The wizard casts a 
+spell at Jake, Mitchell, and Sean. Teddy gets downed. Mitchell teleports to Teddy's side and gets Teddy out of death saving throws
+with a spell. Jake attacks the Alaskan Bull Worm twice dealing a lot of damage and then uses his bonus action to heal himself 
+with a _potion of healing_. 
+
+Jason casts two _Radiant Sun Bolts_ at the wizard, only one hit for a small amount of damage. He then uses _Searing Arc Strike_ 
+to attack both the raptor near him and the last wizard. Sean takes his battleaxe and swings at the velociraptor close to him, 
+dealing a solid amount of damage. The Alaskan Bull Worm uses a ranged attack on Mitchell as well as _Psychic Drain_ for a lot 
+of damage and causes Mitch to be poisoned. Teddy stands up with 1 HP and tries to attack the giant worm but misses. Next, 
+the wizard casts a spell at Jake, Teddy, Mitchell, Sean, and the Alaskan Bull Worm. Teddy and Sean lose their HP and are in 
+death saving throws. The blast kills the Alaskan Bull Worm as we all sigh in relief. Mitchell goes over to Sean and revives him. 
+Jake attacks the velociraptor by him and kills it. Jason attacks the last velociraptor with his _Radiant Sun Bolt_ and 
+eventually kills it after 3 attempts. The wizard attack Jake and Mitchell, Jake is downed and Mitch has only 2 health remaining. 
+
+Jason goes up behind the wizard and attacks it with his _Mace of Disruption_, dealing moderate damage. Then uses a ki point 
+and attacks with _Flurry of Blows_ dealing even more damage. With 1 HP, Sean stands up and raises his _Talisman of Pure Good_ and 
+yells 
+
+> FUCK YOUUUU!!!!
+
+A fissure opens up beneath the wizard and hands reach out to drag it into the ground. We spend the next round of the fight 
+preparing for any more fights in the town.
+
 
 
