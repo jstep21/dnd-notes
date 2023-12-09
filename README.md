@@ -18,8 +18,8 @@ If you're going to edit, here are some rules for .md files:
 - `***hello there***` - everything bold and italic
 - `> hello`- quote text (make sure there's a space above and below)
 - `<hr>` - horizontal rule. seperator line for sections
-- `<sub>some text</sub>` - subscript (some<sub>text</sub>)
-- `<sup>some text</sup>` - superscript (some<sup>text</sup>)
+- `some <sub>text</sub>` - subscript (some<sub>text</sub>)
+- `some <sup>text</sup>` - superscript (some<sup>text</sup>)
 
 <hr>
 
